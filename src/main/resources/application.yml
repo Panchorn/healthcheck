@@ -8,4 +8,4 @@ app:
     health-check-report:
       endpoint: https://hiring-challenge.appspot.com/healthcheck/report
     line:
-      access-token: Bearer eyJhbGciOiJIUzI1NiJ9.YACZalMG2yPNjMIYv-JOInBlzRG_Zb5gpbi7Jfys3irAAeenPZpf6F9kwQZS37qMxALoUR4UW0CffkEJrQKIDiw3fqZ5s8GUmdzb8jjpoNOFYUuswChoR904hwv62Qx8TzbkGRooQpOihTCGVMUrdxO5Tl8kO8g1_f8IdlDNYYQ.sCG-uNEWlV8yTwv7OlEaam93GHI_wMx-RHYBp95i8EM
+      access-token: ${access_token}
